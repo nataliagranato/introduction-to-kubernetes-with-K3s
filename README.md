@@ -32,3 +32,5 @@ Agora podemos verificar o que foi criado a partir dos diferentes pontos de vista
 ```
 kubectl get nodes --output wide
 ```
+
+### Acesse a wiki do repositório para seguir o aprendizado comigo.
