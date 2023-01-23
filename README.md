@@ -33,4 +33,10 @@ Agora podemos verificar o que foi criado a partir dos diferentes pontos de vista
 kubectl get nodes --output wide
 ```
 
+Você também pode criar um cluster HA com workers a partir do arquivo de configuração disponibilizado no repo. Execute o comando:
+```
+k3d cluster create --config $PATH/myk3dcluster.yaml
+```
+
+
 ### Acesse a wiki do repositório para seguir o aprendizado comigo.
